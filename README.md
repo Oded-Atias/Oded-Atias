@@ -90,23 +90,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Oded-Atias&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oded-Atias&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oded-Atias&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oded-Atias&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
----
 
 ### 📈 Activity Graph
 
